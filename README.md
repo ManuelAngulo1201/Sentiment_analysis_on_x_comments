@@ -18,6 +18,7 @@ Selenium: For extraction of comments on X, mostly because X API must to be paid 
 Power BI: For data visualization
 
 ## Project Structure
+`````
 Sentiment_analysis_on_x_comments/
 ├── data/ # Directory containing result CSV files
 │ ├── X_dumek_data.csv # CSV file with results from step 1
@@ -30,3 +31,4 @@ Sentiment_analysis_on_x_comments/
 ├── powerbi/ # Directory containing Power BI files
 │ └── sentiment_analysis_dashboard.pbix # Power BI dashboard file
 └── README.md # Project description
+`````
