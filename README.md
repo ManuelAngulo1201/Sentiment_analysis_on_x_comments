@@ -33,3 +33,6 @@ Sentiment_analysis_on_x_comments/
 └── README.md # Project description
 `````
 **Note**: Please be aware that you might need to adjust the file paths in the Jupyter notebooks and Power BI dashboard according to where you save the files in your local environment. Ensure that the file paths match your directory structure to avoid issues with file loading.
+
+## The resulting Dashboard for the Analysist 
+![Dashboard](https://github.com/ManuelAngulo1201/Sentiment_analysis_on_x_comments/blob/main/powerbi/dumekdashboard.PNG)
